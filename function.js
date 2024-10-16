@@ -63,8 +63,7 @@ const MultipleNumbers = function(a , b){
 
 console.log(MultipleNumbers(3,4));
 
-const AddNumbers = function(a,b){
-    return a * b;
-}
 
-console.log(AddNumbers())
+
+
+
