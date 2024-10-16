@@ -64,6 +64,14 @@ const MultipleNumbers = function(a , b){
 console.log(MultipleNumbers(3,4));
 
 
+function AddtwoNumbers(num1 , num2){
+    let result = num1+num2
+    console.log("Sahil")
+    return result
+}
 
+const result = AddtwoNumbers(5,8)
+
+console.log("result :" ,result);
 
 
